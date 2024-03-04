@@ -1,0 +1,157 @@
+.board {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 30px;
+  text-align: center;
+}
+
+.box {
+  width: 40px;
+  height: 40px;
+  border: 2px black solid;
+  text-align: center;
+  margin: 7px;
+}
+
+.box-container {
+  display: flex;
+}
+
+#H {
+  justify-content: center;
+  background-color: #a90100;
+  font-family: sans-serif;
+  color: white;
+}
+
+#goldenyellow {
+  width: 36px;
+  height: 36px;
+  border: 4px black solid;
+}
+
+#La {
+  font-family: sans-serif;
+  color: white;
+  margin-top: 13px;
+  margin-left: 5px;
+}
+
+#Am {
+  font-family: sans-serif;
+  font-weight: 500;
+  margin-top: 8px;
+  margin-left: 5px;
+}
+
+#No {
+  font-family: sans-serif;
+  font-weight: 500;
+  margin-left: 11px;
+}
+
+.middle-block {
+  margin-top: 34px;
+}
+
+.bottom-block {
+  margin-top: 40px;
+}
+
+.big-box {
+  width: 130px;
+  height: 120px;
+  border: 3px black solid;
+  background-color: #89a02c;
+  margin-bottom: 15px;
+}
+
+.top-right {
+  justify-content: right;
+}
+
+.bottom-box-container {
+  display: flex;
+  justify-content: center;
+}
+
+.small-box {
+  width: 35px;
+  height: 35px;
+  border: 1px black solid;
+}
+
+.forteen {
+  font-family: sans-serif;
+  margin: auto;
+  padding-top: 10px;
+  padding-left: 103px;
+}
+
+.Si {
+  font-family: sans-serif;
+  font-size: 40px;
+  margin: auto;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.Silicon {
+  font-family: sans-serif;
+  margin: auto;
+  padding-left: 10px;
+}
+
+.leaf-green {
+  background-color: #89a02c;
+}
+
+.coral {
+  background-color: #ff5555;
+  font-family: sans-serif;
+}
+
+.goldenyellow {
+  background-color: #ffe6d5;
+}
+
+.blue {
+  background-color: #0000fe;
+}
+
+.yellow {
+  background-color: #ffcc00;
+}
+
+.orange {
+  background-color: #ff6600;
+}
+
+.purple {
+  background-color: #aa0087;
+}
+
+.green {
+  background-color: #5aa02c;
+}
+
+.pink {
+  background-color: #ff0066;
+}
+
+.grey {
+  background-color: #6d535e;
+}
+
+.dark-green {
+  background-color: #47582e;
+}
+
+.light-green {
+  background-color: #95bc5f;
+}
